@@ -13,22 +13,31 @@
     "hidden": false
   },
   "profile": {
-    "name": "廖晓娟 (新茗)",
-    "email": "736xxxx86@qq.com",
-    "mobile": "156xxxx7119",
-    "github": "https://github.com/visiky (1.1k 粉丝)",
-    "zhihu": "https://www.zhihu.com/people/visiky",
-    "workExpYear": ""
+    "name": "张磊",
+    "email": "zl_lz0@163.com",
+    "mobile": "13372415775",
+    "github": "",
+    "zhihu": "",
+    "workExpYear": "2年"
   },
   "educationList": [
     {
       "edu_time": [
-        "2014.09.01",
-        "2018.06.30"
+        "2012.09.01",
+        "2016.06.30"
       ],
-      "school": "华南理工大学",
-      "major": "网络工程",
+      "school": "青岛农业大学",
+      "major": "计算机科学与技术",
       "academic_degree": "本科"
+    },
+    {
+      "edu_time": [
+        "2017.09.01",
+        "2020.10.30"
+      ],
+      "school": "杭州电子科技大学",
+      "major": "计算机技术",
+      "academic_degree": "硕士"
     }
   ],
   "awardList": [
